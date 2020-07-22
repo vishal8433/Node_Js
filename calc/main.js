@@ -1,0 +1,5 @@
+var module= require('c:/Users/DELL/Desktop/Node_Js/calc_module/module')
+var addresult=module.add(4,4)
+console.log("The addition is " + addresult)
+var subresult=module.sub(12,4)
+console.log("The subtraction is " + subresult)
